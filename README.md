@@ -224,14 +224,6 @@ README.md
 ---
 
 
-# ⭐ Future Improvements
-
-- Customer Lifetime Value (CLV)
-- Churn Prediction
-- Interactive Power BI Service Deployment
-- Real-time Dashboard
-- Advanced Time-Series Forecasting
-
 ---
 
 # 👨‍💻 Author
